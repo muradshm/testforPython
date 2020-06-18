@@ -1,2 +1,2 @@
 print("hello")
-00
+print("test")
